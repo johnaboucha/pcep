@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [👋 Introduction](README.md)
 
 ## Section 1: Python Fundamentals
 
