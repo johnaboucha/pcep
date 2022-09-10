@@ -12,5 +12,12 @@
 
 ## Section 2: Control Flow
 
-* [If Statements](section-2-control-flow/if-statements.md)
-* [Loops and Iterations](section-2-control-flow/loops-and-iterations.md)
+* [2.1 If Statements](section-2-control-flow/2.1-if-statements.md)
+* [2.2 Loops and Iterations](section-2-control-flow/2.2-loops-and-iterations.md)
+
+## Section 3: Data Collections
+
+* [3.1 Lists](section-3-data-collections/3.1-lists.md)
+* [3.2 Tuples](section-3-data-collections/3.2-tuples.md)
+* [3.3 Dictionaries](section-3-data-collections/3.3-dictionaries.md)
+* [3.4 String Operations](section-3-data-collections/3.4-string-operations.md)
