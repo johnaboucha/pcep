@@ -9,3 +9,8 @@
 * [1.3 Literals and Variables](section-1-python-fundamentals/1.3-literals-and-variables.md)
 * [1.4 Operators and Data Types](section-1-python-fundamentals/1.4-operators-and-data-types.md)
 * [1.5 Input and Output](section-1-python-fundamentals/1.5-input-and-output.md)
+
+## Section 2: Control Flow
+
+* [If Statements](section-2-control-flow/if-statements.md)
+* [Loops and Iterations](section-2-control-flow/loops-and-iterations.md)
