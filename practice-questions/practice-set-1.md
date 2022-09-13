@@ -115,3 +115,36 @@ age = 24
 name = 'Steve Urkel'
 print(age/name)
 ```
+
+```
+A. Exception
+B. ValueError
+C. TypeError
+D. NameError
+```
+
+### 10. What will be the output of the following expression?
+
+<pre class="language-python"><code class="lang-python"><strong>x = 4
+</strong>y = 2
+print(x/y)</code></pre>
+
+```
+A. 2.0
+B. 4
+C. 0.5
+D. 2
+```
+
+### Answers
+
+1. D
+2. C
+3. C
+4. A
+5. C
+6. D
+7. D
+8. B
+9. C
+10. A
