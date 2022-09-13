@@ -21,3 +21,14 @@
 * [3.2 Tuples](section-3-data-collections/3.2-tuples.md)
 * [3.3 Dictionaries](section-3-data-collections/3.3-dictionaries.md)
 * [3.4 String Operations](section-3-data-collections/3.4-string-operations.md)
+
+## Section 4: Functions and Exceptions
+
+* [4.1 Functions](section-4-functions-and-exceptions/4.1-functions.md)
+* [4.2 More Functions](section-4-functions-and-exceptions/4.2-more-functions.md)
+* [4.3 Exceptions](section-4-functions-and-exceptions/4.3-exceptions.md)
+* [4.4 Exception Handling](section-4-functions-and-exceptions/4.4-exception-handling.md)
+
+## Practice Questions
+
+* [Practice Set 1](practice-questions/practice-set-1.md)
