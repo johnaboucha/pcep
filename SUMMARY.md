@@ -31,4 +31,5 @@
 
 ## Practice Questions
 
-* [Practice Set 1](practice-questions/practice-set-1.md)
+* [Question Set 1](practice-questions/question-set-1.md)
+* [Question Set 2](practice-questions/question-set-2.md)
