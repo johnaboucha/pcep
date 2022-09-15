@@ -26,7 +26,7 @@ C. 2
 D. 1
 ```
 
-### 2. The range(3) function returns what?
+### 2. What does the range(3) function return?
 
 ```
 A. A sequence of numbers, starting at 1
