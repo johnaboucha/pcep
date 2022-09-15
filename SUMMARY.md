@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Introduction](README.md)
+* [Introduction](README.md)
+* [Exam Details](exam-details.md)
 
 ## Section 1: Python Fundamentals
 
