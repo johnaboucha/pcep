@@ -2,7 +2,7 @@
 description: Practice makes permanent
 ---
 
-# Practice Set 1
+# Question Set 1
 
 ### 1. What is the result of the following expression?
 

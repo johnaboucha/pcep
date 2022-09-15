@@ -82,4 +82,70 @@ A. True
 B. False
 ```
 
-###
+### 6. What does the following print?
+
+```python
+nums = [1,2,3,4,5]
+index = nums[1] * -1
+print(nums[index])
+```
+
+```
+A. 1
+B. An error
+C. 4
+D. 5
+```
+
+### 7. It is possible to iterate over a string with a for-in loop.
+
+```
+A. True
+B. False
+```
+
+### 8. Tuples are like lists in that you can add new elements to them with the append() method.
+
+```
+A. True
+B. False
+```
+
+### 9. If-statements must always include and else block.
+
+```
+A. True
+B. False
+```
+
+### 10. Review the code and select the True statement.
+
+```python
+nums = [1,2,3,4,5]
+nums2 = nums
+del nums[0]
+nums2.append(6)
+```
+
+```
+A. nums is longer than nums2
+B. nums is shorter than nums2
+C. nums and nums2 are the same length
+D. The first element in nums is 0
+```
+
+### Answers
+
+1. A
+2. D
+3. C
+4. B
+5. A
+6. C
+7. A
+8. B
+9. B
+10. C
+
+&#x20;
+
