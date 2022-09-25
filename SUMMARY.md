@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Certified Entry-Level Python Programmer - Study Guide](README.md)
 
 ## Section 1: Python Fundamentals
 
